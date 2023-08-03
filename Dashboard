@@ -1,13 +1,40 @@
 Hello, 
 I am excited to share my latest project work on end-to-end financial data analysis project using the Czechoslovakia bank dataset. 
 This project is a fully functional automated financial model, where clients can simply upload data in AWS cloud and dashboard will 
-update automatically in power BI. 
-
+update automatically in power BI.
 
 Power BI Dashboad = https://www.novypro.com/project/czechoslovakia-banking-financial-data-analysis-power-bi
 
+Following steps are required >>>>
+
+Excel > AWS > Snowflake > Power BI
+
+Step 1[in MS Excel ] :
+# Basic Data Cleaning
+# Change File Type To CSV format.
+
+Step2 [AWS] :
+# Bucket Creation In S3
+# Create folder under new created bucket
+# Role Assigning
+# Policy Creation
+
+Step 3[Snowflake] :
+# Create Warehouses, Database, Schema, Table
+# Data Cleaning in snowflake
+# Storage Integration
+# File Format and Stage Creation
+# Pipe-Line Creation
+
+Step 4 [power BI] :
+# Build Connection and Extract Data
+# Transform Data
+# Load Data
+# Dashboard Creation
+
 
 Here is the Snowflake SQL data cleaning Code. 
+
 
  ####  Project =  Banking data analysis
 
