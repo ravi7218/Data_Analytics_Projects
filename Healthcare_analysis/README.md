@@ -3,9 +3,13 @@
 ## Problem Statement 
 
 1.Analyze how socioeconomic status influences health outcomes such as quality of life, stress levels, and mental health.
+
 2.Investigate the relationship between physical activity, dietary habits, and quality of life.
+
 3.Examine how family medical history relates to the prevalence of chronic medical conditions.
+
 4.Assess the impact of geographic location on healthcare access, insurance status, and patient outcomes.
+
 5.Explore the effects of substance use on both mental and physical health.
 
   ## Project Overview
