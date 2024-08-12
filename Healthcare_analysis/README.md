@@ -12,7 +12,7 @@
 
   ## Findings
 
-  > The average age of the patients is 51 years.
+  The average age of the patients is 51 years.
   - ### 33% of the patients are from the Black community. Other ethnic groups include Asian, White, and Hispanic.
   - ### A significant number of patients have a family history of heart disease, making it a prevalent condition across the patient pool.
   - ### 50% of the patients do not have health insurance, indicating a potential barrier to accessing healthcare services.
