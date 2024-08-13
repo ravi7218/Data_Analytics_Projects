@@ -14,6 +14,8 @@
 
   ## Project Overview
 
+https://github.com/user-attachments/assets/d7cdfc1e-6923-48e3-894b-5a10e7dbbd7f
+
   ## Findings
 
   1. The average age of the patients is 51 years.
